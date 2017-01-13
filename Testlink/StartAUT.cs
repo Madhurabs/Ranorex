@@ -80,7 +80,7 @@ namespace Testlink
             Init();
 
             Report.Log(ReportLevel.Info, "Application", "Run application 'C:\\Users\\Madhura\\Desktop\\VipV1.exe' with arguments '' in normal mode.", new RecordItemIndex(0));
-            Host.Local.RunApplication("C:\\Users\\Madhura\\Desktop\\VipV1.exe", "", "C:\\Users\\Madhura\\Desktop", false);
+            Host.Local.RunApplication("%userprofile%\\Desktop\\VipV1.exe", "", "C:\\Users\\Madhura\\Desktop", false);
             Delay.Milliseconds(0);
             
         }
