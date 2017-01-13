@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+rxversion="6.1"
+id="1157b621-e872-407f-8be8-eb1f58514c5d"
+embeddedrepository="False"
+mode="Desktop">
+	<name>
+		StartAUT
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="StartAUT"
+	namespace="Testlink"/>
+	<variables/>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		optional="False"
+		maximized="False">
+			<comment/>
+			<bindings/>
+			<filename>
+				C:\Users\Madhura\Desktop\VipV1.exe
+			</filename>
+			<workingdir>
+				C:\Users\Madhura\Desktop
+			</workingdir>
+			<args/>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	name="TestlinkRepository"
+	id="97ed39c5-fe9f-4eae-b11b-24d2b6634e8a"
+	rxversion="6.1"
+	relativepath="TestlinkRepository.rxrep">
+		<codegen
+		classname="TestlinkRepository"
+		namespace="Testlink"/>
+		<rootfolder
+		name="_rootdummy_"
+		id="81081cb2-49ce-4ae7-813e-0ab7fde86519"/>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		StartAUT.UserCode.cs
+	</usercodefile>
+	<references/>
+</recordtable>

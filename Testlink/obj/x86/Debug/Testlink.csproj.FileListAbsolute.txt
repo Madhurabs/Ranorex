@@ -1,0 +1,8 @@
+E:\Testlink\Testlink\bin\Debug\Testlink.rxtmg
+E:\Testlink\Testlink\bin\Debug\Testlink.rxtst
+E:\Testlink\Testlink\bin\Debug\Testlink.exe.config
+E:\Testlink\Testlink\bin\Debug\Testlink.exe
+E:\Testlink\Testlink\bin\Debug\Testlink.pdb
+E:\Testlink\Testlink\obj\x86\Debug\Testlink.csprojResolveAssemblyReference.cache
+E:\Testlink\Testlink\obj\x86\Debug\Testlink.exe
+E:\Testlink\Testlink\obj\x86\Debug\Testlink.pdb

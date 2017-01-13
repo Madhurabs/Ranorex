@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+rxversion="6.1"
+id="fa885348-ffc7-4695-86db-6499bb408749"
+embeddedrepository="False"
+mode="Global">
+	<name>
+		Login
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Login"
+	namespace="Testlink"/>
+	<variables/>
+	<recorditems/>
+	<repository
+	name="TestlinkRepository"
+	id="97ed39c5-fe9f-4eae-b11b-24d2b6634e8a"
+	rxversion="6.1"
+	relativepath="TestlinkRepository.rxrep">
+		<codegen
+		classname="TestlinkRepository"
+		namespace="Testlink"/>
+		<rootfolder
+		name="_rootdummy_"
+		id="81081cb2-49ce-4ae7-813e-0ab7fde86519"/>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Login.UserCode.cs
+	</usercodefile>
+	<references/>
+</recordtable>

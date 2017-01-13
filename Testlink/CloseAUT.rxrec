@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+rxversion="6.1"
+id="dc35e00e-f7a1-4b7a-a044-3e2f64868a5c"
+embeddedrepository="False"
+mode="Global">
+	<name>
+		CloseAUT
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseAUT"
+	namespace="Testlink"/>
+	<variables/>
+	<recorditems/>
+	<repository
+	name="TestlinkRepository"
+	id="97ed39c5-fe9f-4eae-b11b-24d2b6634e8a"
+	rxversion="6.1"
+	relativepath="TestlinkRepository.rxrep">
+		<codegen
+		classname="TestlinkRepository"
+		namespace="Testlink"/>
+		<rootfolder
+		name="_rootdummy_"
+		id="81081cb2-49ce-4ae7-813e-0ab7fde86519"/>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseAUT.UserCode.cs
+	</usercodefile>
+	<references/>
+</recordtable>
