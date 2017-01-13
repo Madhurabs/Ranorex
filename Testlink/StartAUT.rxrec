@@ -34,10 +34,10 @@ mode="Desktop">
 			<comment/>
 			<bindings/>
 			<filename>
-				C:\Users\Madhura\Desktop\VipV1.exe
+				%userprofile%\Desktop\VipV1.exe
 			</filename>
 			<workingdir>
-				C:\Users\Madhura\Desktop
+				%userprofile%\Desktop
 			</workingdir>
 			<args/>
 		</runapprecorditem>
